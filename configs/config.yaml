@@ -1,0 +1,38 @@
+database_name: world_bank_demo
+raw_base_path: dbfs:/FileStore/world_bank_demo
+
+files:
+  literacy_tsv: literacy.tsv
+  children_csv: children_out_of_school.csv
+  education_xml: education_expenditure.xml
+  population_fwf: world_population.fwf
+
+tables:
+  bronze:
+    literacy: bronze_literacy
+    children: bronze_children
+    education: bronze_education
+    population: bronze_population
+  silver:
+    literacy: silver_literacy
+    children: silver_children
+    education: silver_education
+    population: silver_population
+  gold:
+    kpis_2019: gold_kpis_2019
+
+fixed_width_specs:
+  country:
+    start: 1
+    length: 30
+  population:
+    start: 31
+    length: 6
+
+filter_out_regions:
+  - Europe & Central Asia (excluding high income)
+  - Central Europe and the Baltics
+  - East Asia & Pacific (excluding high income)
+  - World
+
+

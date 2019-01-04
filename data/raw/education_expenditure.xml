@@ -1,0 +1,92 @@
+<root>
+  <data>
+    <field _name="Country or Area" _value="Italy" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2018" />
+    <field _name="Value" _value="6.31" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="Italy" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2019" />
+    <field _name="Value" _value="6.87" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="Italy" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2020" />
+    <field _name="Value" _value="7.93" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="France" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2018" />
+    <field _name="Value" _value="7.28" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="France" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2019" />
+    <field _name="Value" _value="7.33" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="France" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2020" />
+    <field _name="Value" _value="4.9" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="India" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2018" />
+    <field _name="Value" _value="5.27" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="India" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2019" />
+    <field _name="Value" _value="7.17" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="India" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2020" />
+    <field _name="Value" _value="3.81" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="Brazil" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2018" />
+    <field _name="Value" _value="4.78" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="Brazil" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2019" />
+    <field _name="Value" _value="6.35" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="Brazil" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2020" />
+    <field _name="Value" _value="6.51" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="Japan" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2018" />
+    <field _name="Value" _value="6.42" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="Japan" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2019" />
+    <field _name="Value" _value="3.36" />
+  </data>
+  <data>
+    <field _name="Country or Area" _value="Japan" />
+    <field _name="Item" _value="Government expenditure on education (% of total exp.)" />
+    <field _name="Year" _value="2020" />
+    <field _name="Value" _value="6.17" />
+  </data>
+</root>
